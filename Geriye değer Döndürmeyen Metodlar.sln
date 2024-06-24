@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geriye değer Döndürmeyen Metodlar", "Geriye değer Döndürmeyen Metodlar.csproj", "{87EF9EB9-DA45-413C-86AA-47EFB44987E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87EF9EB9-DA45-413C-86AA-47EFB44987E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87EF9EB9-DA45-413C-86AA-47EFB44987E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87EF9EB9-DA45-413C-86AA-47EFB44987E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87EF9EB9-DA45-413C-86AA-47EFB44987E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8228C606-6140-4B40-8640-A3B714F4E44A}
+	EndGlobalSection
+EndGlobal
